@@ -4,4 +4,5 @@ bash shell scripting
 
 here are the list of shell topics.
 
-printing with echo command 
+1.printing with echo command 
+2 variables
