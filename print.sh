@@ -15,9 +15,9 @@ echo hello world
 # \e[colm  - to defined which color
 # \e[com   - to disable color
 
-echo -e "\e[31mRED COLOR\e[om"
-echo -e "\e[32mGREEN COLOR\e[om"
-echo -e "\e[33mYELLOW COLOR\e[om"
-echo -e "\e[34mBLUE COLOR\e[om"
-echo -e "\e[35mMAGNETA COLOR\e[om"
-echo -e "\e[36mCYAN COLOR\e[om"
+echo -e "\e[31mRED COLOR\e[0m"
+echo -e "\e[32mGREEN COLOR\e[0m"
+echo -e "\e[33mYELLOW COLOR\e[0m"
+echo -e "\e[34mBLUE COLOR\e[0m"
+echo -e "\e[35mMAGNETA COLOR\e[0m"
+echo -e "\e[36mCYAN COLOR\e[0m"
